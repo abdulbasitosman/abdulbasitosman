@@ -1,5 +1,5 @@
 # About me
-##Hi, I’m [Abdul Basit Osman](@abdulbasitosman),
+## Hi, I’m [Abdul Basit Osman](@abdulbasitosman),
 - 📫 A university student studying BSc Accounting and Finance. I'm goal getter and a team player too. I love to code and am doing so :).
 - 📫 I’m interested in writing codes for the Web Dev, and doing Software Engineering.
 - 📫 Currently learning Software Engineering at ALX Softwaring Engineering school - online.
