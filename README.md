@@ -4,7 +4,7 @@
 - 📫 I’m interested in writing codes for the Web Dev, and doing Software Engineering,
 - 📫 Currently learning Software Engineering at ALX Softwaring Engineering school - online.
 - 📫 I’m looking to collaborate on open source, and close source projects.
-- 📫 Reach out to me on: [Twitter](https://twitter.com/_basit19?t=nibog8YhZCPCblxlOa0Nkw&s=09), [Facebook](https://web.facebook.com/profile.php?id=100008633741154).
+- 📫 Reach out to me on: [Twitter](https://twitter.com/_basit19?t=nibog8YhZCPCblxlOa0Nkw&s=09), [Facebook](https://web.facebook.com/profile.php?id=100008633741154), [LinkedIn](https://www.linkedin.com/in/abdul-basit-osman-8b66b2199/).
 
 <!---
 abdulbasitosman/abdulbasitosman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
